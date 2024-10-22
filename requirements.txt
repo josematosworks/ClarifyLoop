@@ -1,0 +1,1 @@
+Task Management App: User authentication, task creation, team collaboration, real-time notifications, deadline reminders, and file attachments.
